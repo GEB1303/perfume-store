@@ -29,3 +29,5 @@ sudo dnf install java-17-amazon-corretto-devel -y
 sudo dnf install jenkins -y
 sudo dnf install nginx -y
 sudo dnf install git -y
+### 3. Permissions & Security (Sudoers)
+To allow Jenkins to deploy files into the Nginx directory without manual intervention, I configured NOPASSWD access in the /etc/sudoers file:
