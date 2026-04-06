@@ -59,11 +59,11 @@ Several technical challenges were resolved during the process:
 🌐 Live Demo
 The application is live and accessible via the EC2 Public IP:
 ```bash
-URL: [http://50.16.109.143](http://50.16.109.143)
+URL: [http://50.16.109.143|http://50.16.109.143]
 ```
 ---
 
-### 2. Push the changes to GitHub
+### 5. Push the changes to GitHub
 Run these commands in your terminal to update your repo with the English documentation:
 
 ```bash
